@@ -1,0 +1,232 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #1C658C;
+  padding: 50px;
+}
+
+p {
+  line-height: 2;
+}
+
+h1 {
+  margin: 50px 0;
+  font-size: 4.25rem;
+  font-family: 'Playfair Display', serif;
+  color: #EAF6F6;
+  border: 3px solid white;
+
+}
+
+
+.site {
+  font-size: 1.5rem;
+  position: absolute;
+  top: 97px;
+}
+
+.laptop {
+  position: relative;
+  bottom: 121px;
+  left:300px;
+  width: 70px;
+}
+
+.middle-container {
+  margin: 100px auto 100px auto;
+}
+
+.concord {
+  width: 200px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.25rem;
+  color: #1C658C;
+}
+
+.example {
+  text-align: left;
+  margin-left: 10px;
+  width: 70%;
+}
+
+.intro {
+  width: 75%;
+  margin: auto;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.center {
+  margin: 30px auto;
+  border-collapse: collapse;
+  width: 70%;
+  height: 80%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+th {
+  background-color: #1C658C;
+  color: white;
+}
+
+.sing-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px
+}
+
+.plu {
+  width: 70%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.people {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+h3 {
+  color: #1C658C;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.chille {
+  margin: 10px auto 50px;
+}
+
+.bottom-container {
+  background-color: #1C658C;
+  padding: 50px 0 20px;
+
+}
+
+a {
+  color: #0E185F;
+  text-decoration: none;
+  margin: 10px 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20PX 0;
+}
+.might{
+  margin: 100px auto 100px auto;
+}
+.medal{
+  width: 25%;
+  float: left;
+}
+
+
+
+.noun{
+color: #B20600;
+}
+.verb{
+  color: #FFD32D;
+}
+.rules{
+  width: 70%;
+  margin:100px auto;
+  text-align: left;
+}
+.and{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.ex{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.proximity{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.who{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.push{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.baby{
+  width: 25%;
+  float: left;
+  margin-right: 30;
+}
+.num{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+hr{
+  border: dotted #0093AB 6px;
+  border-bottom: none;
+  width: 3%;
+  margin: 100px auto;
+}
+
+
+ol,ul{
+  line-height: 2;
+}
+
+
+
+.btn {
+  background: #2060e0;
+  background-image: -webkit-linear-gradient(top, #2060e0, #2b4eb8);
+  background-image: -moz-linear-gradient(top, #2060e0, #2b4eb8);
+  background-image: -ms-linear-gradient(top, #2060e0, #2b4eb8);
+  background-image: -o-linear-gradient(top, #2060e0, #2b4eb8);
+  background-image: linear-gradient(to bottom, #2060e0, #2b4eb8);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
